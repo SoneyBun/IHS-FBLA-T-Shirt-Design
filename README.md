@@ -10,8 +10,8 @@
 
 <!-- Images -->
 # 📷 Images
-<img width="500" height="500" alt="Indy Logo" src="https://github.com/user-attachments/assets/23013d26-b33b-4686-9271-85bf2d5e21de" />
-<img width="500" height="500" alt="FBLA Logo" src="https://github.com/user-attachments/assets/44cf0105-906d-4f08-9641-8fa00fefb263" />
+<img width="200" height="200" alt="Indy Logo" src="https://github.com/user-attachments/assets/23013d26-b33b-4686-9271-85bf2d5e21de" />
+<img width="200" height="200" alt="FBLA Logo" src="https://github.com/user-attachments/assets/44cf0105-906d-4f08-9641-8fa00fefb263" />
 
 
 <!-- Initial Thoughts -->
