@@ -16,6 +16,8 @@
 
 <!-- Initial Thoughts -->
 ## 🧠 Initial Thoughts
+I wanted the T-Shirt to be simple, not too much going on. Just a logo on a shirt with minimal designs.
+
 I first thought i could add the IHS Patterns to the FBLA Logo, however the result wasn't to my satisfaction. The white stripes wouldn't look too well with the white background, which in some cases makes it difficult to use on a t-shirt. I then settled on adding the FBLA Color theme on the IHS Tiger.
 
 <!-- Creation -->
@@ -37,3 +39,9 @@ When stacked, the three images result in the following:
 I was satisfied with this result.
 
 My next step was to incorporate the FBLA Logo, as the instructions state that it's required. I decided on replacing the Stars in the Original IHS Tiger with Whited-out FBLA Logos.
+
+<img width="200" height="200" alt="IndyFBLALogos" src="https://github.com/user-attachments/assets/2616034b-ef71-4c0b-be38-df2201fd3737" />
+
+There were minor flaws in this image, however when merging all the photos together, I fixed it.
+
+<img width="1170" height="1103" alt="Final" src="https://github.com/user-attachments/assets/2da85772-dd43-41e3-a47e-8f9532bff6e9" />
