@@ -45,3 +45,7 @@ My next step was to incorporate the FBLA Logo, as the instructions state that it
 There were minor flaws in this image, however when merging all the photos together, I fixed it.
 
 <img width="1170" height="1103" alt="Final" src="https://github.com/user-attachments/assets/2da85772-dd43-41e3-a47e-8f9532bff6e9" />
+
+Putting the image on a T-shirt would result in:
+
+![image](https://github.com/user-attachments/assets/1d580cb1-abc3-425d-b658-6753c954c285)
